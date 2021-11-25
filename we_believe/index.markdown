@@ -35,3 +35,17 @@ Life is a process that sometimes creates an upward eddy in the downward current 
 Arete is a Greek word that means living up to our potential and fulfilling our purpose. When we say “the Arete of Life” we mean the complex whole of Life, including the upward spiral of creation and the myriad deaths and extinctions that give rise to that spiral. We celebrate it all.
 
 Ants carrying, eagles soaring, people loving … none of these would exist without Life's erratic yet tenacious upward spiral of creation.
+
+## SolSeed: The Body of All Life
+
+> _As you are alive, and I am alive,_\
+> _and in kinship with all other beings_\
+> _nourished by Sol,_\
+>    _we are SolSeed,---_\
+>    _the body of all Life._
+
+Groups of people may be organized into bodies. When we regard a number of individuals as a single entity, we refer to the group as a “body”. We have legislative bodies, student bodies, administrative bodies, governing bodies, and religious bodies. Bodies are in some way more than the sum of the individuals. We expect a body of people to generate ideas and think about things in a way that is different from what the individuals working alone would come up with.
+
+Groups of cells may also be organized into bodies. The cells in your body don't know who you are and don't care about you. And yet, by each cell doing its own little thing in its own little context, this miraculous thing called you emerges!
+
+Just like our body is composed of cells that each do their own different unique thing, so too there is a body of all life composed of living organisms of which we are a part. This body of all Life has many names. We call it SolSeed. Sol out of gratitude for the star at the center of our system that provides practically all the energy that animates Life on Earth, and Seed to remind us of the tremendous possibilities latent in the complex biosystem Life has created by organizing the gift of energy that comes from Sol.
