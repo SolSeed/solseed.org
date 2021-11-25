@@ -20,6 +20,9 @@ Nothing needs to change for Life to become “worthy”. It already is worthy. E
 
 ## The Nature of Life
 
+![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg)
+
+
 > _Life exuberant_\
 > _bursting through boundaries_\
 > _to flower and spread_\
@@ -37,6 +40,8 @@ Arete is a Greek word that means living up to our potential and fulfilling our p
 Ants carrying, eagles soaring, people loving … none of these would exist without Life's erratic yet tenacious upward spiral of creation.
 
 ## SolSeed: The Body of All Life
+
+![Body of All Life Shot of Earth](/assets/we_believe/BodyOfAllLife.jpg)
 
 > _As you are alive, and I am alive,_\
 > _and in kinship with all other beings_\
