@@ -2,6 +2,8 @@
 
 ## Venerable Life
 
+![Venerable Life Tree Frog](/assets/we_believe/VenerableLife.jpg)
+
 > _Life is precious._\
 >    _It has always been precious,_\
 >    _it will always be precious._
