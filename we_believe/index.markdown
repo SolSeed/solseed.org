@@ -57,6 +57,9 @@ Just like our body is composed of cells that each do their own different unique 
 
 ## Life Expressed!
 
+![Take Root and Flower Spacewalk](/assets/we_believe/TakeRootAndFlower.jpg)
+
+
 > _The Destiny of SolSeed_\
 >    _is to take root and flower amongst the stars ---_\
 >    _to give birth to a family of living worlds._
@@ -68,6 +71,8 @@ Mother Earth and Father Sun are ready to start a family. Instead of our solar sy
 In the very far future, Solar Life will spread beyond this solar system to take root amongst the stars. As it does so, it may encounter Life from other sources with which to commune. Just think of the possibilities!
 
 ## Called
+
+![Called Path in Forest](/assets/we_believe/Called.jpg)
 
 > _As SolSeed's intelligent spark,_\
 >    _we are called to express the Arete of Life,_\
