@@ -88,3 +88,32 @@ Evolving humanity was expensive. It took eons to develop the biosphere and to de
 The extinctions we have caused and the fuels we have burned have purchased an infrastructure that we can use in service to Life. The ultimate expression of Life's flowering will come when we (the body of all life) transcend the bounds of this planet and firmly take root throughout our solar system and the rest of the galaxy. Humanity has an essential role to play in this ultimate expression of the upward spiral of Life.
 
 Humanity has a use, a role to play, a thing to do.
+
+
+## Dedicated
+
+> _We who answer this call_\
+> _dedicate ourselves to Life._\
+>    _We join together_\
+>    _in a community of practice_\
+>    _to align our actions_\
+>    _with our highest aspirations._
+
+Many of life's choicest rewards come from being in relationship with others. Our most important relationships gain special potency when they are formed within the context of a larger shared purpose. Regular practice with a community of like-minded individuals keeps us rolling in our chosen direction even when we lack inspiration and are overwhelmed by the concerns of everyday life.
+
+We join together in community in order to bring out the best in ourselves and each other. We fan the flames of enthusiasm to nurture and encourage our beginner selves. We call for a deepening of wisdom to uncover and let shine the greatness in each of us. We direct the fire of passion down the line of practical inquiry that brings with it understanding and faculty. We cultivate habits that train us to instinctively react to even the most difficult situations with responses that align with our highest aspirations.
+
+Simply stated, Life is better when lived together.
+
+## Awakening
+
+> _Through art and the natural world_\
+> _we awaken within ourselves and others_\
+>    _the Cosmic Religious Feeling_\
+>    _that ignites wonder,_\
+>    _fosters compassion, and_\
+>    _inspires us to proactively create._
+
+There is a way of experiencing the world that is profoundly different than our usual ego-centric mode. It feels like waking up to the true order of things. The boundary between self and other dissolves as we directly experience the universe as a single significant whole. We feel the futility of grasping after things. In place of our habitual drive to react we find an empty space from which to proactively initiate change.
+
+This cosmic religious feeling is difficult to communicate from person to person. It may be awakened or enlivened through a growing sense of awe or uplifting emotion as we experience beauty, nobility, grandeur, or immensity. These sublime experiences seem to often arise from the contemplation of art, science, and nature. Individual and collective practice keeps us regularly connected to these sources of inspiration.
