@@ -1,8 +1,12 @@
-# We Believe
-
-## Venerable Life
+---
+layout: page
+title: We Believe
+permalink: /we_believe/
+---
 
 ![Venerable Life Tree Frog](/assets/we_believe/VenerableLife.jpg)
+
+## Venerable Life
 
 > _Life is precious._\
 >    _It has always been precious,_\
@@ -18,10 +22,9 @@ Life is not perfect. This is obvious to anyone who has experienced cruelty or mi
 
 Nothing needs to change for Life to become “worthy”. It already is worthy. Even if we had more wars, more hunger, and more systemic injustice, Life would still be precious. Always and forever, Life is what it is … and it is worthy of veneration!
 
-## The Nature of Life
-
 ![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg)
 
+## The Nature of Life
 
 > _Life exuberant_\
 > _bursting through boundaries_\
@@ -39,9 +42,9 @@ Arete is a Greek word that means living up to our potential and fulfilling our p
 
 Ants carrying, eagles soaring, people loving … none of these would exist without Life's erratic yet tenacious upward spiral of creation.
 
-## SolSeed: The Body of All Life
-
 ![Body of All Life Shot of Earth](/assets/we_believe/BodyOfAllLife.jpg)
+
+## SolSeed: The Body of All Life
 
 > _As you are alive, and I am alive,_\
 > _and in kinship with all other beings_\
@@ -55,10 +58,9 @@ Groups of cells may also be organized into bodies. The cells in your body don't 
 
 Just like our body is composed of cells that each do their own different unique thing, so too there is a body of all life composed of living organisms of which we are a part. This body of all Life has many names. We call it SolSeed. Sol out of gratitude for the star at the center of our system that provides practically all the energy that animates Life on Earth, and Seed to remind us of the tremendous possibilities latent in the complex biosystem Life has created by organizing the gift of energy that comes from Sol.
 
-## Life Expressed!
-
 ![Take Root and Flower Spacewalk](/assets/we_believe/TakeRootAndFlower.jpg)
 
+## Life Expressed!
 
 > _The Destiny of SolSeed_\
 >    _is to take root and flower amongst the stars ---_\
@@ -70,9 +72,9 @@ Mother Earth and Father Sun are ready to start a family. Instead of our solar sy
 
 In the very far future, Solar Life will spread beyond this solar system to take root amongst the stars. As it does so, it may encounter Life from other sources with which to commune. Just think of the possibilities!
 
-## Called
-
 ![Called Path in Forest](/assets/we_believe/Called.jpg)
+
+## Called
 
 > _As SolSeed's intelligent spark,_\
 >    _we are called to express the Arete of Life,_\
@@ -89,9 +91,9 @@ The extinctions we have caused and the fuels we have burned have purchased an in
 
 Humanity has a use, a role to play, a thing to do.
 
-## Dedicated
-
 ![Dedicated Hands In Air](/assets/we_believe/Dedicated.jpg)
+
+## Dedicated
 
 > _We who answer this call_\
 > _dedicate ourselves to Life._\
@@ -106,9 +108,9 @@ We join together in community in order to bring out the best in ourselves and ea
 
 Simply stated, Life is better when lived together.
 
-## Awakening
-
 ![Awakening Nebula](/assets/we_believe/Awakening.jpg)
+
+## Awakening
 
 > _Through art and the natural world_\
 > _we awaken within ourselves and others_\
