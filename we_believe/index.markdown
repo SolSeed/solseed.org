@@ -89,8 +89,9 @@ The extinctions we have caused and the fuels we have burned have purchased an in
 
 Humanity has a use, a role to play, a thing to do.
 
-
 ## Dedicated
+
+![Dedicated Hands In Air](/assets/we_believe/Dedicated.jpg)
 
 > _We who answer this call_\
 > _dedicate ourselves to Life._\
@@ -106,6 +107,8 @@ We join together in community in order to bring out the best in ourselves and ea
 Simply stated, Life is better when lived together.
 
 ## Awakening
+
+![Awakening Nebula](/assets/we_believe/Awakening.jpg)
 
 > _Through art and the natural world_\
 > _we awaken within ourselves and others_\
