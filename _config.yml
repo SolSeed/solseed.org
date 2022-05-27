@@ -22,7 +22,7 @@ title: The SolSeed Movement - Gaia's People
 email: no-reply@solseed.org
 description: >- # this means to ignore newlines until "baseurl:"
   The SolSeed movement is a real-life Earthseed community.  We are an Earth centered wisdom tradtion inspired by Earthseed as found in Octavia Butler's Parable of the Sower and Parable of the Talents books.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://solseed.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SolSeed
 github_username:  SolSeed
