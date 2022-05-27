@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The SolSeed Movement - A Community of Practice
+title: The SolSeed Movement - Gaia's People
 email: no-reply@solseed.org
 description: >- # this means to ignore newlines until "baseurl:"
   The SolSeed movement is a real-life Earthseed community.  We are an Earth centered wisdom tradtion inspired by Earthseed as found in Octavia Butler's Parable of the Sower and Parable of the Talents books.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "solseed.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://solseed.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SolSeed
 github_username:  SolSeed
 facebook_username: SolSeed
