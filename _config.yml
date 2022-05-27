@@ -29,7 +29,7 @@ github_username:  SolSeed
 facebook_username: SolSeed
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
