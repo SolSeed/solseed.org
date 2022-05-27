@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "solseed.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SolSeed
 github_username:  SolSeed
+facebook_username: SolSeed
 
 # Build settings
 theme: minima
