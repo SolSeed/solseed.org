@@ -4,6 +4,32 @@ title: We Believe
 permalink: /we_believe/
 ---
 
+<style>
+.imagepage-left {
+    width: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.imagepage-right {
+    width: 40%;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.clear {
+    clear: both;
+}
+.flexi {
+    display: flex;
+    align-items: flex-end;
+}
+</style>
+
+
+<div class="flexi">
+
 ![Venerable Life Tree Frog](/assets/we_believe/VenerableLife.jpg)
 
 ## Venerable Life
@@ -11,6 +37,8 @@ permalink: /we_believe/
 > _Life is precious._\
 >    _It has always been precious,_\
 >    _it will always be precious._
+
+</div>
 
 Life puts atoms together in very interesting ways. One configuration of atoms gives us an ant carrying a leaf many times larger than itself. From another configuration we get an eagle slipping gracefully through the sky. Yet another configuration becomes a person who feels, thinks, and loves.
 
@@ -22,7 +50,9 @@ Life is not perfect. This is obvious to anyone who has experienced cruelty or mi
 
 Nothing needs to change for Life to become “worthy”. It already is worthy. Even if we had more wars, more hunger, and more systemic injustice, Life would still be precious. Always and forever, Life is what it is … and it is worthy of veneration!
 
-![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg)
+
+
+![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg){: .imagepage-right}
 
 ## The Nature of Life
 
@@ -41,6 +71,8 @@ Life is a process that sometimes creates an upward eddy in the downward current 
 Arete is a Greek word that means living up to our potential and fulfilling our purpose. When we say “the Arete of Life” we mean the complex whole of Life, including the upward spiral of creation and the myriad deaths and extinctions that give rise to that spiral. We celebrate it all.
 
 Ants carrying, eagles soaring, people loving … none of these would exist without Life's erratic yet tenacious upward spiral of creation.
+
+<div class="clear"></div>
 
 ![Body of All Life Shot of Earth](/assets/we_believe/BodyOfAllLife.jpg)
 
@@ -122,3 +154,22 @@ Simply stated, Life is better when lived together.
 There is a way of experiencing the world that is profoundly different than our usual ego-centric mode. It feels like waking up to the true order of things. The boundary between self and other dissolves as we directly experience the universe as a single significant whole. We feel the futility of grasping after things. In place of our habitual drive to react we find an empty space from which to proactively initiate change.
 
 This cosmic religious feeling is difficult to communicate from person to person. It may be awakened or enlivened through a growing sense of awe or uplifting emotion as we experience beauty, nobility, grandeur, or immensity. These sublime experiences seem to often arise from the contemplation of art, science, and nature. Individual and collective practice keeps us regularly connected to these sources of inspiration.
+
+
+![Awakening Nebula](/assets/we_believe/SacredPractice.jpg)
+
+## Sacred Practice
+> _Our sacred duty is to_
+> _embrace Passion,_
+> _cultivate Empathy, and_
+>     _pursue Wisdom,_
+>     _So that our being honors Life_
+>     _and our striving advances The Destiny._
+
+The pursuit of scientific truth is a central part of our religious practice. No logical proof or experiment can demonstrate that scientific truth is good. And yet, we devote ourselves to science as to a higher calling.
+
+Science is a uniquely human expression of the Arete of Life. Using science to understand and manipulate the world for the benefit of Life brings honor to the unbroken thread of ancestors who made our lives possible. We find tremendous significance in living up to our potential in all ways, both individual and collective.
+
+If our purpose is to fully express the Arete of Life, then our religion is the practice of whole heartedly pursuing this purpose. We strive to constantly strengthen and promote the values and goals underlying our religious movement ... not because our religion demands it of us, but because the values and purpose are the essential expression of our nature.
+
+The power of our religion comes not from unique access to “True” values and purposes, but from supporting us in living the values we have discovered in ourselves. Our sacred practice helps us fulfill our individual duty to flower in our communities and our species' duty to help Life take root and flower amongst the stars.
