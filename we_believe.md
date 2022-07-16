@@ -203,3 +203,31 @@ The disparity between our goals and our actions leads us to be cruel to ourselve
 Because we only have direct cognitive access to the rider, when we talk about our goals we give a one-sided account that only incorporates what our rider wants. The single most important thing our rider can do is to understand what motivates our elephant and connect these motivators to our goals. The “fire in our belly” so to speak, comes from stories and symbols that are experienced viscerally rather than cerebrally.
 
 The beautiful life we seek depends upon our rider becoming a clever servant rather than a cruel tyrant. Passion belongs to our elephant, it alone knows our unique “happy in the sun!”
+
+![Empathy is Transcendent](/assets/we_believe/EmpathyIsTranscendent.jpg)
+
+## Empathy is Transcendent
+
+> _Empathy is transcendent._
+> _Without Empathy,_
+>    _Passion and Wisdom are evil._
+
+Empathy is the mechanism by which we understand and value others. Culture and society spring from Empathy (see Jonathan Haidt Righteous Mind Crossing the Rubric chapter). Without Empathy the deep understanding and trust so necessary for collective action cannot exist. It is Empathy that spurs us to value the needs of others and consider how our actions might impact them.
+
+It can be difficult to cultivate Empathy for strangers in other countries, for the entire body of all Life, and for future generations. As we make our daily choices, we consider the needs of these abstract entities only as much as we identify with them in our guts. And so we create religious images, metaphors, and rituals to give life to these abstract aspirations so that we can relate to them as immediately as we relate to a friend or family member.
+
+The ability to sometimes perceive ourselves not just as an ephemeral individual organism, but as the Body of all Life itself can add a great deal of power and purpose to our lives. This ability to identify with the larger whole is an essential characteristic of spiritual enlightenment. It offers freedom from reactive grasping and the option to proactively create our lives.
+
+![Cultivate Empathy](/assets/we_believe/CultivateEmpathy.jpg)
+
+## Cultivate Empathy
+
+> _I pledge to love others as I love myself,_\
+> _to consider their needs as if they were my own ---_\
+>    _to Grow Ours, not just Get Mine._
+
+While it may be true that service of others provides happiness and life satisfaction for the person who is doing the serving, the motivation for the service is important. Something is missed when service to others is done to look good or even just because we know that service leads to a happier life. Service brings the most peace and satisfaction when it springs from a depth of character where such service is simply the right thing to do.
+
+Good religions demand that we live a life of character and that we help others because it is “the right thing to do.” As we empathize with the people we are seeking to help, we also cultivate appreciation for the gift they are giving to us by allowing us to participate in the transformative vulnerability of accepting assistance.
+
+In the fiddler on the roof, Tevye the main character, offers a chunk of cheese to a young stranger who is passing through his town. Perchik, the young man, refuses ... insisting “I have no money and I'm not a beggar.” Tevye responds, “Ah, take it. It's a blessing for me to give.” The genuineness of the sentiment wins Perchik over, and he accepts the food with a slightly pompous “Very well. For your sake.” “Thank you. Thank you” replies Tevye as he hands him the food. Throughout this interchange the empathy the older Tevye feels for young Perchik is clear. Both men experience an increase in grace and dignity.
