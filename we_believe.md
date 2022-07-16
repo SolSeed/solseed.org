@@ -233,6 +233,9 @@ Within the realm of mind we can use the systematic techniques of the scientific 
 
 In a very real sense, we become what we practice. Let us adopt again for the moment the metaphor of our minds as a rider (our conscious mind) on an elephant (our unconscious mind and body). We can develop wisdom by training the rider/elephant combination to automatically react to situations in the ways we desire. Regular, effective practice changes our patterns of behavior and establishes better habits of thought and action. These habits of good character conserve our limited willpower by allowing us to automatically make choices in line with our values without having to puzzle out the situational ethics of every encounter.
 
+![We Bring Life](/assets/we_believe/WeBringLife.jpg)
+
+
 ## We Bring Life!
 
 > _Through Passion, Empathy, and Wisdom,_\
