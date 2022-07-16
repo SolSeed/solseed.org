@@ -231,3 +231,20 @@ While it may be true that service of others provides happiness and life satisfac
 Good religions demand that we live a life of character and that we help others because it is “the right thing to do.” As we empathize with the people we are seeking to help, we also cultivate appreciation for the gift they are giving to us by allowing us to participate in the transformative vulnerability of accepting assistance.
 
 In the fiddler on the roof, Tevye the main character, offers a chunk of cheese to a young stranger who is passing through his town. Perchik, the young man, refuses ... insisting “I have no money and I'm not a beggar.” Tevye responds, “Ah, take it. It's a blessing for me to give.” The genuineness of the sentiment wins Perchik over, and he accepts the food with a slightly pompous “Very well. For your sake.” “Thank you. Thank you” replies Tevye as he hands him the food. Throughout this interchange the empathy the older Tevye feels for young Perchik is clear. Both men experience an increase in grace and dignity.
+
+![Wisdom is Effective](/assets/we_believe/WisdomIsEffective.jpg)
+
+> _Wisdom is Effective_\
+> _Wisdom is effective._\
+> _Without Wisdom,_\
+>    _Passion and Empathy are feeble and capricious._
+
+Wisdom refers to the human ability to use knowledge and experience to develop common sense and insight. Wisdom also refers to the human ability to discern or judge what is true, right, or lasting.
+
+Memory is a primitive piece of Wisdom. Memory is required for us to accurately recognize and characterize a situation. Simulation is a more advanced piece of Wisdom. Simulation allows us to imagine how to create something in the future that is different than the current situation.
+
+If we do not understand a situation our actions will be ineffective even if we are passionately motivated to help others. Worse yet, our half-baked actions may create unexpected outcomes that cause the situation to deteriorate rather than to improve.
+
+Wisdom is knowing a good action to take in a given situation in order to bring about a good outcome. The more practiced we are in responding to a given situation with Wisdom, the more reflexive and instinctive a good response becomes. Practice turns received Wisdom into embodied Wisdom.
+
+When we are wise, we show good judgment even in difficult situations that most people find overwhelming. With sufficient practice, we can quickly determine what is truly important even amidst a cacophony of inputs.
