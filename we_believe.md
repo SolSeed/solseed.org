@@ -208,8 +208,8 @@ The beautiful life we seek depends upon our rider becoming a clever servant rath
 
 ## Empathy is Transcendent
 
-> _Empathy is transcendent._
-> _Without Empathy,_
+> _Empathy is transcendent._\
+> _Without Empathy,_\
 >    _Passion and Wisdom are evil._
 
 Empathy is the mechanism by which we understand and value others. Culture and society spring from Empathy (see Jonathan Haidt Righteous Mind Crossing the Rubric chapter). Without Empathy the deep understanding and trust so necessary for collective action cannot exist. It is Empathy that spurs us to value the needs of others and consider how our actions might impact them.
