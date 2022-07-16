@@ -183,7 +183,7 @@ The beautiful life we seek depends upon our rider becoming a clever servant rath
 > _Without Empathy,_\
 >    _Passion and Wisdom are evil._
 
-Empathy is the mechanism by which we understand and value others. Culture and society spring from Empathy (see Jonathan Haidt Righteous Mind Crossing the Rubric chapter). Without Empathy the deep understanding and trust so necessary for collective action cannot exist. It is Empathy that spurs us to value the needs of others and consider how our actions might impact them.
+Empathy is the mechanism by which we understand and value others. Culture and society spring from Empathy (see Jonathan Haidt Righteous Mind Crossing the Rubicon chapter). Without Empathy the deep understanding and trust so necessary for collective action cannot exist. It is Empathy that spurs us to value the needs of others and consider how our actions might impact them.
 
 It can be difficult to cultivate Empathy for strangers in other countries, for the entire body of all Life, and for future generations. As we make our daily choices, we consider the needs of these abstract entities only as much as we identify with them in our guts. And so we create religious images, metaphors, and rituals to give life to these abstract aspirations so that we can relate to them as immediately as we relate to a friend or family member.
 
@@ -205,7 +205,8 @@ In the fiddler on the roof, Tevye the main character, offers a chunk of cheese t
 
 ![Wisdom is Effective](/assets/we_believe/WisdomIsEffective.jpg)
 
-> _Wisdom is Effective_\
+## Wisdom is Effective
+
 > _Wisdom is effective._\
 > _Without Wisdom,_\
 >    _Passion and Empathy are feeble and capricious._
