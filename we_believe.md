@@ -162,9 +162,9 @@ This cosmic religious feeling is difficult to communicate from person to person.
 > _Our sacred duty is to_\
 > _embrace Passion,_\
 > _cultivate Empathy, and_\
->     _pursue Wisdom,_\
->     _So that our being honors Life_\
->     _and our striving advances The Destiny._
+> _pursue Wisdom,_\
+>    _So that our being honors Life_\
+>    _and our striving advances The Destiny._
 
 The pursuit of scientific truth is a central part of our religious practice. No logical proof or experiment can demonstrate that scientific truth is good. And yet, we devote ourselves to science as to a higher calling.
 
@@ -180,7 +180,7 @@ The power of our religion comes not from unique access to “True” values and 
 
 > _Passion drives us._\
 > _Without Passion,_\
->     _Empathy and Wisdom are impotent._
+>    _Empathy and Wisdom are impotent._
 
 The love for an endeavor is a greater gift than is natural aptitude for it. Natural aptitude alone will always be overtaken and surpassed by the ceaseless practice of those who love an activity. In the words of de Saint-Exupéry, “if you would build a ship, don't tell people to gather wood and hammer nails, instead teach them to long for the endless wild sea.”
 
@@ -189,3 +189,17 @@ We are only powerful when we are fully, passionately alive. We only do great and
 In an age of cars, machines, and computers it is tempting to adopt a metaphor of self that places our conscious mind in the role of operator and the rest of us as the machine that is being operated. This metaphor is grossly inaccurate and provides little insight about how to create what we seek to create in the world. Instead we adopt the model of our conscious mind as a rider on top of the elephant of our unconscious mind and body.
 
 Motivations strong enough to be labeled as passions come almost entirely from our elephants. We are attracted to some things and repelled from others not by clearly reasoned philosophical arguments, but by the powerful aesthetic reactions of our subconscious minds. The path to a thriving, flourishing life runs through our elephants. Their passion is our source of power!
+
+![Embrace Passion](/assets/we_believe/EmbracePassion.jpg)
+
+## Embrace Passion
+
+> _I pledge to stoke the fire in my belly,_\
+> _to compassionately care for my inner elephant ---_\
+>    _to really be me, Happy in the Sun!_
+
+The disparity between our goals and our actions leads us to be cruel to ourselves. We use words like disappointment, lazy, and selfish to try and whip ourselves into shape. The hurt and shame we inflict on ourselves fails to bring about the changes we desire. We turn to addictive vices to escape our self abuse. The cycle of disappointment, abuse, and escapism continues.
+
+Because we only have direct cognitive access to the rider, when we talk about our goals we give a one-sided account that only incorporates what our rider wants. The single most important thing our rider can do is to understand what motivates our elephant and connect these motivators to our goals. The “fire in our belly” so to speak, comes from stories and symbols that are experienced viscerally rather than cerebrally.
+
+The beautiful life we seek depends upon our rider becoming a clever servant rather than a cruel tyrant. Passion belongs to our elephant, it alone knows our unique “happy in the sun!”
