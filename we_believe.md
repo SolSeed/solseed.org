@@ -232,3 +232,17 @@ The scientific method is currently our best mechanism to learn, codify, and shar
 Within the realm of mind we can use the systematic techniques of the scientific method to think about and communicate our results in mathematics, logic, philosophy and the “soft sciences” like psychology, sociology, and anthropology. Within the spiritual realm we can carefully evaluate forms of meditation and other religious practices to determine which most reliably and powerfully produce the fruits we are seeking.
 
 In a very real sense, we become what we practice. Let us adopt again for the moment the metaphor of our minds as a rider (our conscious mind) on an elephant (our unconscious mind and body). We can develop wisdom by training the rider/elephant combination to automatically react to situations in the ways we desire. Regular, effective practice changes our patterns of behavior and establishes better habits of thought and action. These habits of good character conserve our limited willpower by allowing us to automatically make choices in line with our values without having to puzzle out the situational ethics of every encounter.
+
+## We Bring Life!
+
+> _Through Passion, Empathy, and Wisdom,_\
+> _we have come to know that:_\
+>    _We are Solseed_\
+>    _children of the Earth and Sun_\
+>    _awakened by starlight_\
+>    _growing_\
+>    _nurturing_\
+>    _discovering_\
+>    _We Bring Life!_
+
+Life is not a binary property where we are either alive or dead. Life is a continuous property such that an individual organism, a group of organisms, and indeed the body of all life can be more or less alive from moment to moment. We seek to bring more life to ourselves, our communities, our world, indeed even unto the galaxy! Our religion succeeds in direct relation to how effective it is in supporting us in bringing life at each of these scales of abstraction.
