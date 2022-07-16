@@ -84,7 +84,8 @@ In the very far future, Solar Life will spread beyond this solar system to take 
 
 Our place in the body of all life is not one of special rights and privileges, but rather one of great purpose and responsibility. In the words of Carl Sagan,
 
-Our obligation to survive and flourish is owed not just to ourselves but also to that Cosmos ancient and vast from which we spring.
+> Our obligation to survive and flourish is owed not just to ourselves > but also to that Cosmos ancient and vast from which we spring.
+
 We are called not just to live -- not just to get by -- but to create a life that brings honor to all the ancestors who came before us. We are called to create a life that increases the opportunities of the generations that will follow us.
 
 Evolving humanity was expensive. It took eons to develop the biosphere and to deposit vast stores of fossil fuels. In the decades of our infancy we caused the extinction of myriad other species and consumed Life's densest reserves of concentrated energy. It will take a lot of doing to become worthy of our price.
