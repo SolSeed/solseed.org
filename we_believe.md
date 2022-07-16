@@ -156,14 +156,14 @@ There is a way of experiencing the world that is profoundly different than our u
 This cosmic religious feeling is difficult to communicate from person to person. It may be awakened or enlivened through a growing sense of awe or uplifting emotion as we experience beauty, nobility, grandeur, or immensity. These sublime experiences seem to often arise from the contemplation of art, science, and nature. Individual and collective practice keeps us regularly connected to these sources of inspiration.
 
 
-![Awakening Nebula](/assets/we_believe/SacredPractice.jpg)
+![Sacred Practice](/assets/we_believe/SacredPractice.jpg)
 
 ## Sacred Practice
-> _Our sacred duty is to_
-> _embrace Passion,_
-> _cultivate Empathy, and_
->     _pursue Wisdom,_
->     _So that our being honors Life_
+> _Our sacred duty is to_\
+> _embrace Passion,_\
+> _cultivate Empathy, and_\
+>     _pursue Wisdom,_\
+>     _So that our being honors Life_\
 >     _and our striving advances The Destiny._
 
 The pursuit of scientific truth is a central part of our religious practice. No logical proof or experiment can demonstrate that scientific truth is good. And yet, we devote ourselves to science as to a higher calling.
@@ -173,3 +173,19 @@ Science is a uniquely human expression of the Arete of Life. Using science to un
 If our purpose is to fully express the Arete of Life, then our religion is the practice of whole heartedly pursuing this purpose. We strive to constantly strengthen and promote the values and goals underlying our religious movement ... not because our religion demands it of us, but because the values and purpose are the essential expression of our nature.
 
 The power of our religion comes not from unique access to “True” values and purposes, but from supporting us in living the values we have discovered in ourselves. Our sacred practice helps us fulfill our individual duty to flower in our communities and our species' duty to help Life take root and flower amongst the stars.
+
+![Passion Drives Us](/assets/we_believe/PassionDrives.jpg)
+
+## Passion Drives Us
+
+> _Passion drives us._\
+> _Without Passion,_\
+>     _Empathy and Wisdom are impotent._
+
+The love for an endeavor is a greater gift than is natural aptitude for it. Natural aptitude alone will always be overtaken and surpassed by the ceaseless practice of those who love an activity. In the words of de Saint-Exupéry, “if you would build a ship, don't tell people to gather wood and hammer nails, instead teach them to long for the endless wild sea.”
+
+We are only powerful when we are fully, passionately alive. We only do great and beautiful things when we have enough gumption to get off the couch and take action. If we lack the will to act, our best and wisest intentions come to nothing.
+
+In an age of cars, machines, and computers it is tempting to adopt a metaphor of self that places our conscious mind in the role of operator and the rest of us as the machine that is being operated. This metaphor is grossly inaccurate and provides little insight about how to create what we seek to create in the world. Instead we adopt the model of our conscious mind as a rider on top of the elephant of our unconscious mind and body.
+
+Motivations strong enough to be labeled as passions come almost entirely from our elephants. We are attracted to some things and repelled from others not by clearly reasoned philosophical arguments, but by the powerful aesthetic reactions of our subconscious minds. The path to a thriving, flourishing life runs through our elephants. Their passion is our source of power!
