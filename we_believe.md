@@ -4,32 +4,6 @@ title: We Believe
 permalink: /we_believe/
 ---
 
-<style>
-.imagepage-left {
-    width: 40%;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-.imagepage-right {
-    width: 40%;
-    float: right;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-
-.clear {
-    clear: both;
-}
-.flexi {
-    display: flex;
-    align-items: flex-end;
-}
-</style>
-
-
-<div class="flexi">
-
 ![Venerable Life Tree Frog](/assets/we_believe/VenerableLife.jpg)
 
 ## Venerable Life
@@ -37,8 +11,6 @@ permalink: /we_believe/
 > _Life is precious._\
 >    _It has always been precious,_\
 >    _it will always be precious._
-
-</div>
 
 Life puts atoms together in very interesting ways. One configuration of atoms gives us an ant carrying a leaf many times larger than itself. From another configuration we get an eagle slipping gracefully through the sky. Yet another configuration becomes a person who feels, thinks, and loves.
 
@@ -52,7 +24,7 @@ Nothing needs to change for Life to become “worthy”. It already is worthy. E
 
 
 
-![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg){: .imagepage-right}
+![Upward Spiral Branch and Leaves](/assets/we_believe/UpwardSpiral.jpg)
 
 ## The Nature of Life
 
@@ -71,8 +43,6 @@ Life is a process that sometimes creates an upward eddy in the downward current 
 Arete is a Greek word that means living up to our potential and fulfilling our purpose. When we say “the Arete of Life” we mean the complex whole of Life, including the upward spiral of creation and the myriad deaths and extinctions that give rise to that spiral. We celebrate it all.
 
 Ants carrying, eagles soaring, people loving … none of these would exist without Life's erratic yet tenacious upward spiral of creation.
-
-<div class="clear"></div>
 
 ![Body of All Life Shot of Earth](/assets/we_believe/BodyOfAllLife.jpg)
 
@@ -248,3 +218,17 @@ If we do not understand a situation our actions will be ineffective even if we a
 Wisdom is knowing a good action to take in a given situation in order to bring about a good outcome. The more practiced we are in responding to a given situation with Wisdom, the more reflexive and instinctive a good response becomes. Practice turns received Wisdom into embodied Wisdom.
 
 When we are wise, we show good judgment even in difficult situations that most people find overwhelming. With sufficient practice, we can quickly determine what is truly important even amidst a cacophony of inputs.
+
+![Pursue Wisdom](/assets/we_believe/PursueWisdom.jpg)
+
+## Pursue Wisdom
+
+> _I pledge to seek truth by studying the world around me,_\
+> _to develop my character through regular practice,_\
+>    _to cultivate sound instincts._
+
+The scientific method is currently our best mechanism to learn, codify, and share information about our world and universe. The scientific method is ideally suited for discovering and communicating truth about the objective physical realm as exemplified by the “hard sciences” like chemistry, geology, neuroscience and the like. With care we can also use the scientific method to distill and communicate truth within other realms of inquiry.
+
+Within the realm of mind we can use the systematic techniques of the scientific method to think about and communicate our results in mathematics, logic, philosophy and the “soft sciences” like psychology, sociology, and anthropology. Within the spiritual realm we can carefully evaluate forms of meditation and other religious practices to determine which most reliably and powerfully produce the fruits we are seeking.
+
+In a very real sense, we become what we practice. Let us adopt again for the moment the metaphor of our minds as a rider (our conscious mind) on an elephant (our unconscious mind and body). We can develop wisdom by training the rider/elephant combination to automatically react to situations in the ways we desire. Regular, effective practice changes our patterns of behavior and establishes better habits of thought and action. These habits of good character conserve our limited willpower by allowing us to automatically make choices in line with our values without having to puzzle out the situational ethics of every encounter.
